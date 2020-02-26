@@ -5,7 +5,11 @@
     <classes>
      
       <class name="TestCases.AppTest12345617181"/>
+<<<<<<< HEAD
       <class name="TestCases.javaTestkkkkkkkkkkk"/>
+=======
+      <class name="TestCases.javaTestetststststststststststdstdts"/>
+>>>>>>> childbracnh
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
